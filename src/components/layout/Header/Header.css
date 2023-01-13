@@ -1,0 +1,17 @@
+.header {
+  background: var(--color-secondary);
+  color: white;
+  padding: var(--spacing-lg);
+  text-align: center;
+}
+
+.header__title {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.header__subtitle {
+  margin: var(--spacing-sm) 0 0;
+  opacity: 0.8;
+  font-size: 1rem;
+}
